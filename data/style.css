@@ -643,7 +643,7 @@ a.contact_btn:hover {
 
 
 #Portfolio {
-    padding: 40px 0 80px;
+    padding: 40px 0 0px;
     background: #ffffff;
 }
 
@@ -875,13 +875,12 @@ background-position-y: 70px;
 
 .about-us .points{
 	position: relative;
-	list-style-type: none;
-	padding: 5px 0 5px 30px;
+	list-style-type:circle;
+	padding: 2px 50px 2px 5px;
 	color: #000;
 }
 
 .about-us .points:before{
-	content: "\f058";
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;

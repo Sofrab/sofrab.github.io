@@ -876,7 +876,7 @@ background-position-y: 70px;
 .about-us .points{
 	position: relative;
 	list-style-type:circle;
-	padding: 2px 50px 2px 5px;
+	padding: 2px 10px 2px 10px;
 	color: #000;
 }
 
